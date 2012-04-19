@@ -1,8 +1,9 @@
 <descriptor>
-    <version>1.0.1</version>
+    <version>0.0.2</version>
     <accesses>
         <access>tts</access>
         <access>http</access>
     </accesses>
     <multiConf>true</multiConf>
+    <asrName>"When is the next bus?"</asrName>
 </descriptor>

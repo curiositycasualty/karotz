@@ -1,3 +1,4 @@
 <screen>
-<text label="Stop #" name="stopId" default="1_2970" validation="" required="true" errorMessage="" />
+<text label="Stop ID" name="stopId" default="1_2970" validation="" required="true" errorMessage="" />
+<text label="Busses arriving in minutes from now" name="minutesAfter" default="35" validation="" required="true" errorMessage="" />
 </screen>
